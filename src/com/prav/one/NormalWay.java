@@ -26,6 +26,7 @@ public class NormalWay {
 		int n=6;
 		System.out.println("Decimal no: "+n);
 		binary(n);
+		System.out.println("Small Change");
 
 	}
 
